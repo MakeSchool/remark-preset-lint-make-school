@@ -1,6 +1,6 @@
 {
   "name": "remark-preset-lint-make-school",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Default settings for linting Make School tutorials written in Markdown.",
   "main": "index.js",
   "repository": {
