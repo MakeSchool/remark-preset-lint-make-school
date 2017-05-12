@@ -35,7 +35,7 @@ module.exports.plugins = [
   [require('fenced-code-marker'), "`"],
 
   require('no-consecutive-blank-lines'),
-  [require('no-missing-blank-lines', { "exceptTightLists": true }],
+  [require('no-missing-blank-lines'), { "exceptTightLists": true }],
   require('no-html'),
   require('no-tabs')
 ];
