@@ -21,7 +21,6 @@ module.exports.plugins = [
   require('remark-lint-no-heading-content-indent'),
   require('remark-lint-no-heading-indent'),
   require('remark-lint-no-heading-like-paragraph'),
-  require('remark-lint-no-multiple-toplevel-headings'),
 
   [require('remark-lint-link-title-style'), "\""],
   require('remark-lint-no-empty-url'),
